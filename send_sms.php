@@ -10,7 +10,7 @@ function sendSms($target, $message)
 
    $params = array();
    $params["un"] = "moshe.waisman@gmail.com";
-   $params["pw"] = "9I2e19";
+   $params["pw"] = "xxx";
    $params["accid"] = "1110";
    $params["sysPW"] = "itnewslettrSMS";
    $params["t"] = date("Y-m-d H:i:s");
